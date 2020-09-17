@@ -17,9 +17,7 @@ body {
 .navbar {
 width: 80%;
 margin: auto;
-width: 50%;
 border: 1px black;
-padding: 5px;
 background-color: #242424;
 border-style: solid;
 }
