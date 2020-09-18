@@ -4,7 +4,7 @@ body {
     font-family: Verdana;
     text-align: center;
     background-color: red;
-    background-image: linear-gradient(#444444, #CCCCCC), url(/static/img/diag_stripe_grey1.png);
+    background-image: linear-gradient(#444444, #CCCCCC), url(diag_stripe_grey1.png);
     text-align: center;
     background-attachment: fixed !important;
 }
